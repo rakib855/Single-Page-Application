@@ -1,0 +1,453 @@
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\appsettings.json
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\coreCrud.exe
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\coreCrud.deps.json
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\coreCrud.runtimeconfig.json
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\coreCrud.runtimeconfig.dev.json
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\coreCrud.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\ref\coreCrud.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\coreCrud.pdb
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\coreCrud.Views.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\coreCrud.Views.pdb
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Humanizer.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\coreCrud.csproj.AssemblyReference.cache
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\coreCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\coreCrud.AssemblyInfoInputs.cache
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\coreCrud.AssemblyInfo.cs
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\coreCrud.csproj.CoreCompileInputs.cache
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\coreCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\coreCrud.RazorAssemblyInfo.cache
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\coreCrud.RazorAssemblyInfo.cs
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\staticwebassets\coreCrud.StaticWebAssets.Manifest.cache
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\staticwebassets\coreCrud.StaticWebAssets.xml
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\scopedcss\bundle\coreCrud.styles.css
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\coreCrud.TagHelpers.input.cache
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\coreCrud.TagHelpers.output.cache
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\coreCrud.RazorCoreGenerate.cache
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\coreCrud.RazorTargetAssemblyInfo.cache
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\coreCrud.RazorTargetAssemblyInfo.cs
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\coreCrud.Views.pdb
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\coreCrud.csproj.CopyComplete
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\coreCrud.dll
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\ref\coreCrud.dll
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\coreCrud.pdb
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\coreCrud.genruntimeconfig.cache
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\LAB-1\Desktop\coreCrud\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\Razor\Views\Transaction\Index.cshtml.g.cs
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\Razor\Views\Transaction\AddOrEdit.cshtml.g.cs
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\Razor\Views\Transaction\Delete.cshtml.g.cs
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\Razor\Views\Transaction\Create.cshtml.g.cs
+C:\Users\LAB-1\Desktop\coreCrud\obj\Debug\net5.0\Razor\Views\Transaction\_ViewAll.cshtml.g.cs
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\appsettings.Development.json
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\appsettings.json
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\coreCrud.StaticWebAssets.xml
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\coreCrud.exe
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\coreCrud.deps.json
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\coreCrud.runtimeconfig.json
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\coreCrud.runtimeconfig.dev.json
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\coreCrud.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\ref\coreCrud.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\coreCrud.pdb
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\coreCrud.Views.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\coreCrud.Views.pdb
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Humanizer.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\coreCrud.csproj.AssemblyReference.cache
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\coreCrud.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\coreCrud.AssemblyInfoInputs.cache
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\coreCrud.AssemblyInfo.cs
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\coreCrud.csproj.CoreCompileInputs.cache
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\coreCrud.MvcApplicationPartsAssemblyInfo.cache
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\coreCrud.RazorAssemblyInfo.cache
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\coreCrud.RazorAssemblyInfo.cs
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\scopedcss\bundle\coreCrud.styles.css
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\staticwebassets\coreCrud.StaticWebAssets.Manifest.cache
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\coreCrud.TagHelpers.input.cache
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\coreCrud.TagHelpers.output.cache
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\coreCrud.RazorCoreGenerate.cache
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\Razor\Views\Transaction\AddOrEdit.cshtml.g.cs
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\Razor\Views\Transaction\Create.cshtml.g.cs
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\Razor\Views\Transaction\Delete.cshtml.g.cs
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\Razor\Views\Transaction\Index.cshtml.g.cs
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\Razor\Views\Transaction\_ViewAll.cshtml.g.cs
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\coreCrud.RazorTargetAssemblyInfo.cache
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\coreCrud.RazorTargetAssemblyInfo.cs
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\coreCrud.Views.pdb
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\coreCrud.csproj.CopyComplete
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\coreCrud.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\ref\coreCrud.dll
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\coreCrud.pdb
+D:\Rakib\ASP.NET Core\Jahid\coreCrud\obj\Debug\net5.0\coreCrud.genruntimeconfig.cache
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\appsettings.json
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\coreCrud.StaticWebAssets.xml
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\coreCrud.exe
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\coreCrud.deps.json
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\coreCrud.runtimeconfig.json
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\coreCrud.runtimeconfig.dev.json
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\coreCrud.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\coreCrud.pdb
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\coreCrud.Views.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\coreCrud.Views.pdb
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Humanizer.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\coreCrud.csproj.AssemblyReference.cache
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\coreCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\coreCrud.AssemblyInfoInputs.cache
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\coreCrud.AssemblyInfo.cs
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\coreCrud.csproj.CoreCompileInputs.cache
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\coreCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\coreCrud.RazorAssemblyInfo.cache
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\coreCrud.RazorAssemblyInfo.cs
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\scopedcss\bundle\coreCrud.styles.css
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\staticwebassets\coreCrud.StaticWebAssets.Manifest.cache
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\coreCrud.TagHelpers.input.cache
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\coreCrud.TagHelpers.output.cache
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\coreCrud.RazorCoreGenerate.cache
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\Razor\Views\Transaction\AddOrEdit.cshtml.g.cs
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\Razor\Views\Transaction\Create.cshtml.g.cs
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\Razor\Views\Transaction\Delete.cshtml.g.cs
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\Razor\Views\Transaction\Index.cshtml.g.cs
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\Razor\Views\Transaction\_ViewAll.cshtml.g.cs
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\coreCrud.RazorTargetAssemblyInfo.cache
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\coreCrud.RazorTargetAssemblyInfo.cs
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\coreCrud.Views.pdb
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\coreCrud.csproj.CopyComplete
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\coreCrud.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\refint\coreCrud.dll
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\coreCrud.pdb
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\coreCrud.genruntimeconfig.cache
+C:\Users\rakib\Downloads\Single Page App in Core\coreCrud\obj\Debug\net5.0\ref\coreCrud.dll
